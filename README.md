@@ -1,2 +1,2 @@
 # todolist-android-app
-Simple TO DO LIST application for android
+Simple To Do list application for android
